@@ -1,4 +1,4 @@
-# 📊 Dataset and Code for Hardness Prediction
+#  Dataset and Code for Hardness Prediction
 
 ## 📁 Dataset Structure
 The dataset can be found in the following folders:
